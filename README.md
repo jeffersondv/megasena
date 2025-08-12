@@ -6,9 +6,12 @@ Permite realizar apostas e testar a estatística dos números mais sorteados em 
 
 Há muitas coisas para fazer ainda:
 
-  Ajustar a quantidade de números a apostar (somente 6)
-  Ajustar os gastos atualizados
-  Como melhorar buffer dos arquivos
+  Ajustar a quantidade de números a apostar (somente 6);
+  
+  Ajustar os gastos atualizados;
+  
+  Como melhorar buffer dos arquivos;
+  
   E muitas outras...
   
   
